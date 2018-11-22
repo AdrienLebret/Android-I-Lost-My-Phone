@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e0b6dca63edb62b05f86849e78dccdb9f2571421\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="192d83ce9ccd2be90853db48438a34262c00dc82">
+        <dex dex="C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_da474119e9ff32c72c6683991b960dafef22d1cc\classes.dex" />
+    </item>
+
+</items>

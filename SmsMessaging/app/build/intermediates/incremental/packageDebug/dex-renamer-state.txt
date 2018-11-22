@@ -1,0 +1,7 @@
+#Fri Nov 02 16:02:43 CET 2018
+base.0=C\:\\Users\\adrie\\Desktop\\AndroidApp\\Assignment_3\\Exemple\\google\\android-fundamentals-phone-sms-master\\SmsMessaging\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e0b6dca63edb62b05f86849e78dccdb9f2571421
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\adrie\\Desktop\\AndroidApp\\Assignment_3\\Exemple\\google\\android-fundamentals-phone-sms-master\\SmsMessaging\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_da474119e9ff32c72c6683991b960dafef22d1cc\\classes.dex
+base.1=C\:\\Users\\adrie\\Desktop\\AndroidApp\\Assignment_3\\Exemple\\google\\android-fundamentals-phone-sms-master\\SmsMessaging\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_da474119e9ff32c72c6683991b960dafef22d1cc
+file.0=C\:\\Users\\adrie\\Desktop\\AndroidApp\\Assignment_3\\Exemple\\google\\android-fundamentals-phone-sms-master\\SmsMessaging\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e0b6dca63edb62b05f86849e78dccdb9f2571421\\classes.dex

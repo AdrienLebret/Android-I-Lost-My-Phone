@@ -1,0 +1,166 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml:3:1-54:12
+INJECTED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml:3:1-54:12
+INJECTED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml:3:1-54:12
+INJECTED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml:3:1-54:12
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\adrie\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.2.0.aar\aa8ea82337afbd24424bb3617c0b4b22\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\adrie\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.2.0.aar\5abfa173a59a11bb1e56a6595494e761\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\adrie\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.2.0.aar\c69e470a808c201b4a1df6f7c4640ee3\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\adrie\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\f446e67218645c33af916747db40c8c2\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\adrie\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\fc6cb638076feb78ada4f0563535344b\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\adrie\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\4cdb431412a6aa68acc910daaafa8d8a\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\adrie\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\f55f35dd9fb3c77c4007917169be65af\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\adrie\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\985f8fcd2e573f36feb770c232599ef5\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\adrie\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\baaf71f6ab4b5b11032ed78582015cd2\AndroidManifest.xml:17:1-27:12
+INJECTED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml:3:1-54:12
+INJECTED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml:3:1-54:12
+INJECTED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml:3:1-54:12
+	package
+		ADDED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml:4:5-58
+		INJECTED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml:3:1-54:12
+		INJECTED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml:3:1-54:12
+		INJECTED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml:3:11-69
+uses-permission#android.permission.SEND_SMS
+ADDED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml:9:5-70
+	android:name
+		ADDED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml:9:22-67
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml:13:5-78
+	android:name
+		ADDED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml:15:22-76
+application
+ADDED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml:18:5-52:19
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\adrie\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.2.0.aar\aa8ea82337afbd24424bb3617c0b4b22\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\adrie\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.2.0.aar\aa8ea82337afbd24424bb3617c0b4b22\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\adrie\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.2.0.aar\5abfa173a59a11bb1e56a6595494e761\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\adrie\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.2.0.aar\5abfa173a59a11bb1e56a6595494e761\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\adrie\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.2.0.aar\c69e470a808c201b4a1df6f7c4640ee3\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\adrie\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.2.0.aar\c69e470a808c201b4a1df6f7c4640ee3\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\adrie\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\f446e67218645c33af916747db40c8c2\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\adrie\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\f446e67218645c33af916747db40c8c2\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\adrie\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\fc6cb638076feb78ada4f0563535344b\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\adrie\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\fc6cb638076feb78ada4f0563535344b\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\adrie\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\4cdb431412a6aa68acc910daaafa8d8a\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\adrie\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\4cdb431412a6aa68acc910daaafa8d8a\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\adrie\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\f55f35dd9fb3c77c4007917169be65af\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\adrie\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\f55f35dd9fb3c77c4007917169be65af\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\adrie\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\985f8fcd2e573f36feb770c232599ef5\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\adrie\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\985f8fcd2e573f36feb770c232599ef5\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\adrie\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\baaf71f6ab4b5b11032ed78582015cd2\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\adrie\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\baaf71f6ab4b5b11032ed78582015cd2\AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml:22:9-35
+	android:label
+		ADDED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml:21:9-41
+	android:icon
+		ADDED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml:20:9-43
+	android:allowBackup
+		ADDED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml:19:9-35
+	android:theme
+		ADDED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml:23:9-40
+activity#com.assignment3.cerbonnelebret.ilostmyphone.MainActivity
+ADDED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml:24:9-30:20
+	android:name
+		ADDED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml:24:19-90
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml:28:27-74
+receiver#com.assignment3.cerbonnelebret.ilostmyphone.SmsReceiver
+ADDED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml:32:9-39:20
+	android:enabled
+		ADDED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml:34:13-35
+	android:exported
+		ADDED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml:35:13-36
+	android:name
+		ADDED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml:33:13-83
+intent-filter#action:name:android.provider.Telephony.SMS_RECEIVED
+ADDED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml:36:13-38:29
+action#android.provider.Telephony.SMS_RECEIVED
+ADDED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml:37:17-81
+	android:name
+		ADDED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml:37:25-79
+receiver#com.assignment3.cerbonnelebret.ilostmyphone.StealthBoot
+ADDED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml:41:9-45:20
+	android:name
+		ADDED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml:41:19-89
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml:42:13-44:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml:43:17-78
+	android:name
+		ADDED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml:43:25-76
+service#com.assignment3.cerbonnelebret.ilostmyphone.ServiceLock
+ADDED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml:47:9-51:19
+	android:enabled
+		ADDED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml:50:13-37
+	android:name
+		ADDED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml:48:13-83
+uses-sdk
+INJECTED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\adrie\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.2.0.aar\aa8ea82337afbd24424bb3617c0b4b22\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\adrie\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.2.0.aar\aa8ea82337afbd24424bb3617c0b4b22\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\adrie\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.2.0.aar\5abfa173a59a11bb1e56a6595494e761\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\adrie\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.2.0.aar\5abfa173a59a11bb1e56a6595494e761\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\adrie\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.2.0.aar\c69e470a808c201b4a1df6f7c4640ee3\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\adrie\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.2.0.aar\c69e470a808c201b4a1df6f7c4640ee3\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\adrie\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\f446e67218645c33af916747db40c8c2\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\adrie\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\f446e67218645c33af916747db40c8c2\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\adrie\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\fc6cb638076feb78ada4f0563535344b\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\adrie\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\fc6cb638076feb78ada4f0563535344b\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\adrie\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\4cdb431412a6aa68acc910daaafa8d8a\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\adrie\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\4cdb431412a6aa68acc910daaafa8d8a\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\adrie\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\f55f35dd9fb3c77c4007917169be65af\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\adrie\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\f55f35dd9fb3c77c4007917169be65af\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\adrie\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\985f8fcd2e573f36feb770c232599ef5\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\adrie\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\985f8fcd2e573f36feb770c232599ef5\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\adrie\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\baaf71f6ab4b5b11032ed78582015cd2\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\adrie\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\baaf71f6ab4b5b11032ed78582015cd2\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.2.0] C:\Users\adrie\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.2.0.aar\aa8ea82337afbd24424bb3617c0b4b22\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\adrie\Desktop\AndroidApp\Assignment_3\Exemple\google\android-fundamentals-phone-sms-master\SmsMessaging\app\src\main\AndroidManifest.xml
